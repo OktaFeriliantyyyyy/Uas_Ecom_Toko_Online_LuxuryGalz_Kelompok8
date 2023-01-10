@@ -1,11 +1,11 @@
 ## Cara instal project TANPA github desktop
 
-Kelompok 8:
-Okta Ferilianty(201210078)
-Michael Anggun Kado Pradana (201210057)
-Tiara Ramandhita(201210056)
-Akbar Sidiq Kurniawan (201210062)
-Alifah Maya Kinanti Putri (201210065)
+Kelompok 8:<br>
+Okta Ferilianty(201210078)<br>
+Michael Anggun Kado Pradana (201210057)<br>
+Tiara Ramandhita(201210056)<br>
+Akbar Sidiq Kurniawan (201210062)<br>
+Alifah Maya Kinanti Putri (201210065)<br>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
